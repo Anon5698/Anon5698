@@ -1,9 +1,13 @@
 ## Sou o Anon5698! Formado em Análise e Desenvolvimento de Sistemas, E futuro especialista em: Linux,Pentest & Bug-Bounty.
 <div align="center">
+  <!--STATS-->
   <a href="https://github.com/Anon5698">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anon5698&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon5698&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon5698&theme=chartreuse-dark"/>
 </div>
+  
+  <!--Languages and Operations Systems-->
 <div style="display: inline_block"><br>
   <img align="center" alt="Anon5698-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Anon5698-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
@@ -23,17 +27,46 @@
   <img align="center" alt="Anon5698-Putty" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg">
   
   
-  
+  <!--
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div> <!-- GIF ALTERAR... -->
+</div> <!-- GIF CHANGE... -->
+  -->
   
   ##
  
 <div> 
-  <a href = "mailto:pedrocaa98@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  <!--Maintained...-->
+   <a href = "Maintained_On"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="_blank"></a>
+   <!-- <a href = "Maintained_Off"><img src="https://img.shields.io/badge/Maintained%3F-no-red.svg" target="_blank"></a> -->
+  
+  <!--Social Medias-->
+   <a href = "(11)98689-7731"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+     <a href = "(11)98689-7731"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href = "pedrocaa98@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-ca%C3%A3-330981129/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
+  <!--Operation Systems-->
+  <a href = "Ubuntu Desktop 22.04LTS"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+  <a href = "Android 10"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+  
+  <!--Donations-->
+  <a href = "Pedrocaa98@hotmail.com"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a>
+  
+  <!--My Favorite Car Brands-->
+  <a href = "Lamborghini"><img src="https://aleen42.github.io/badges/src/lamborghini.svg" target="_blank"></a>
+  <a href = "Bugatti"><img src="https://aleen42.github.io/badges/src/bugatti.svg" target="_blank"></a>
+  <a href = "Porche"><img src="https://aleen42.github.io/badges/src/porsche.svg" target="_blank"></a>
+  <a href = "Tesla"><img src="https://aleen42.github.io/badges/src/tesla.svg" target="_blank"></a>
+  <a href = "Ferrari"><img src="https://aleen42.github.io/badges/src/ferrari.svg" target="_blank"></a>
+  <a href = "Mitsubishi"><img src="https://aleen42.github.io/badges/src/mitsubishi.svg" target="_blank"></a>
+  <a href = "Maserati"><img src="https://aleen42.github.io/badges/src/maserati.svg" target="_blank"></a>
+  <a href = "Koenigsegg"><img src="https://aleen42.github.io/badges/src/koenigsegg.svg" target="_blank"></a>
+  <a href = "BMW"><img src="https://aleen42.github.io/badges/src/bmw.svg" target="_blank"></a>
+  <a href = "Land_Rover"><img src="https://aleen42.github.io/badges/src/land_rover.svg" target="_blank"></a>
+  <a href = "Mercedes_Benz"><img src="https://aleen42.github.io/badges/src/mercedes_benz.svg" target="_blank"></a>
+  <a href = "Audi"><img src="https://aleen42.github.io/badges/src/audi.svg" target="_blank"></a>
  
   ![Snake animation](https://github.com/Anon5698/Anon5698/blob/output/github-contribution-grid-snake.svg)
  
