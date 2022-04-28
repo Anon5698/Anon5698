@@ -2,9 +2,9 @@
 <div align="center">
   <!--STATS-->
   <a href="https://github.com/Anon5698">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anon5698&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon5698&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon5698&theme=chartreuse-dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Anon5698&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon5698&theme=chartreuse-dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon5698&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
   <!--Languages and Operations Systems-->
@@ -27,10 +27,8 @@
   <img align="center" alt="Anon5698-Putty" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg">
   
   
-  <!--
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div> <!-- GIF CHANGE... -->
-  -->
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
+</div> 
   
   ##
  
