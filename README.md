@@ -2,9 +2,9 @@
 <div align="center">
   <!--STATS-->
   <a href="https://github.com/Anon5698">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Anon5698&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon5698&theme=chartreuse-dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon5698&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Anon5698&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon5698&theme=chartreuse-dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon5698&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
   <!--Languages and Operations Systems-->
