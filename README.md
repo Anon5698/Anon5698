@@ -12,7 +12,7 @@
 </div>
   
   <!--TryHackMe-->
-  ## 🖥 TryHacMe!
+  ## 🖥 TryHackMe!
   <img src="https://tryhackme-badges.s3.amazonaws.com/anon5698.png" alt="TryHackMe">
   
   <!--Operations Systems and Languages or Tools-->
