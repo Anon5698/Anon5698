@@ -13,7 +13,9 @@
   
   <!--TryHackMe-->
   ## 🖥 TryHackMe!
-  <img src="https://tryhackme-badges.s3.amazonaws.com/anon5698.png" alt="TryHackMe">
+  <!--<img src="https://tryhackme-badges.s3.amazonaws.com/anon5698.png" alt="TryHackMe">-->
+  <!--<img src="https://tryhackme-badges.s3.amazonaws.com/anon5698.png" alt="HacktheBox">-->
+  
   
   <!--Operations Systems and Languages or Tools-->
  ## 💻 Operations Systems and Languages or Tools!
