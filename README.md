@@ -11,8 +11,8 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anon5698&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
-  <!--TryHackMe-->
-  ## 🖥 TryHackMe!
+  <!--TryHackMe & HackTheBox-->
+  ## 🖥 TryHackMe & HackTheBox!
   <!--<img src="https://tryhackme-badges.s3.amazonaws.com/anon5698.png" alt="TryHackMe">-->
   <!--<img src="https://tryhackme-badges.s3.amazonaws.com/anon5698.png" alt="HacktheBox">-->
   
