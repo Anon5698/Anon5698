@@ -12,9 +12,8 @@
 </div>
   
   <!--TryHackMe & HackTheBox-->
-  ## 🖥 TryHackMe & HackTheBox!
-  <!--<img src="https://tryhackme-badges.s3.amazonaws.com/anon5698.png" alt="TryHackMe">-->
-  <!--<img src="https://tryhackme-badges.s3.amazonaws.com/anon5698.png" alt="HacktheBox">-->
+  ## 🧑‍💻 TryHackMe & HackTheBox!
+  +<img src="https://tryhackme-badges.s3.amazonaws.com/anon5698.png" alt="TryHackMe"> + <=---- & ----=> + <img src="https://www.hackthebox.com/badge/image/1035735" alt="HacktheBox"> +
   
   
   <!--Operations Systems and Languages or Tools-->
