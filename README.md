@@ -66,7 +66,7 @@
   
   <!--Donations-->
   ## 💸 Donations 
-  <a href = "Pedrocaa98@hotmail.com"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a>
+  <a href = "https://www.paypal.com/donate/?business=93SAQM7M8PA64&amount=5&no_recurring=0&item_name=No+matter+how+much+you+send+me+to+continue+my+professional+development.&currency_code=USD"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a>
   
   <!--My Favorite Car Brands-->
   ## 🏎 My Favorite Car Brands!
