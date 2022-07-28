@@ -1,6 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Anon5698" alt="Anon5698" /></p>
 
-<h1 align = "center"> Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Sou o Anon5698! Formado em Análise e Desenvolvimento de Sistemas, E futuro especialista em: Linux,Pentest & Bug-Bounty. <br></h1>
+<h1 align = "center"> Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,<p><font size="2" face="Verdana">Sou o Anon5698! Formado em Análise e Desenvolvimento de Sistemas, E futuro especialista em: Linux,Pentest & Bug-Bounty</font></p><br></h1>
 
   <!--STATS-->
  ## 📊 GitHub Stats!
