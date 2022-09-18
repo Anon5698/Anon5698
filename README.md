@@ -13,9 +13,8 @@
   
   <!--TryHackMe & HackTheBox-->
   ## 🧑‍💻 TryHackMe & HackTheBox!
-  +<img src="https://tryhackme-badges.s3.amazonaws.com/anon5698.png" alt="TryHackMe"> + <=---- & ----=> + <img src="https://www.hackthebox.com/badge/image/1035735" alt="HacktheBox"> +
-  
-  
+
+ 
   <!--Operations Systems and Languages or Tools-->
  ## 💻 Operations Systems and Languages or Tools!
 <div style="display: inline_block"><br>
@@ -46,8 +45,8 @@
   
   <!--Maintained...-->
   ## ⚠️ Maintained!
-   <!-- <a href = "Maintained_On"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="_blank"></a> -->
-   <a href = "Maintained_Off"><img src="https://img.shields.io/badge/Maintained%3F-no-red.svg" target="_blank"></a>
+   <a href = "Maintained_On"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="_blank"></a> 
+   <!-- <a href = "Maintained_Off"><img src="https://img.shields.io/badge/Maintained%3F-no-red.svg" target="_blank"></a> -->
   
   <!--Social Medias-->
   ## 🚀 Social Media!
