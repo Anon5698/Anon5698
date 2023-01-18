@@ -14,12 +14,11 @@
   <!--TryHackMe & HackTheBox-->
   ## 🧑‍💻 TryHackMe !
    <img src="https://tryhackme-badges.s3.amazonaws.com/anon5698.png" alt="TryHackMe">
-  
-
  
   <!--Operations Systems and Languages or Tools-->
  ## 💻 Operations Systems and Languages or Tools!
 <div style="display: inline_block"><br>
+  <img align="right" alt="Anon5698-pic" height="64" width="150" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
   <img align="center" alt="Anon5698-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Anon5698-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="Anon5698-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
@@ -36,12 +35,6 @@
   <img align="center" alt="Anon5698-Putty" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Anon5698-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Anon5698-Putty" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg">
-  
-  
-  <img align="right" alt="Anon5698-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
-</div> 
-  
-  ##
  
 <div> 
   
@@ -50,10 +43,11 @@
    <!--a href = "Maintained_On"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="_blank"></a> --> 
    <a href = "Maintained_Off"><img src="https://img.shields.io/badge/Maintained%3F-no-red.svg" target="_blank"></a>
   
+  
   <!--Social Medias-->
   ## 🚀 Social Media!
    <a href = "https://api.whatsapp.com/send/?phone=%2B5511986897731&text&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-   <a href = "(11)98689-7731"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+   <a href = "t.me/SGZN5698"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href = "pedrocaa98@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-ca%C3%A3-330981129/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
