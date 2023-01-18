@@ -12,7 +12,9 @@
 </div>
   
   <!--TryHackMe & HackTheBox-->
-  ## 🧑‍💻 TryHackMe & HackTheBox!
+  ## 🧑‍💻 TryHackMe !
+   <img src="https://tryhackme-badges.s3.amazonaws.com/anon5698.png" alt="TryHackMe">
+  
 
  
   <!--Operations Systems and Languages or Tools-->
@@ -45,8 +47,8 @@
   
   <!--Maintained...-->
   ## ⚠️ Maintained!
-   <a href = "Maintained_On"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="_blank"></a> 
-   <!-- <a href = "Maintained_Off"><img src="https://img.shields.io/badge/Maintained%3F-no-red.svg" target="_blank"></a> -->
+   <!--a href = "Maintained_On"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="_blank"></a> --> 
+   <a href = "Maintained_Off"><img src="https://img.shields.io/badge/Maintained%3F-no-red.svg" target="_blank"></a>
   
   <!--Social Medias-->
   ## 🚀 Social Media!
@@ -62,10 +64,6 @@
   <a href = "Kali-Linux Desktop 21.01"><img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white"></a>
   <a href = "Net-TOR "><img src="https://img.shields.io/badge/-Tor-7D4698?style=flat-square&logo=Tor-Browser&logoColor=white"></a>
   <a href = "Android 10"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
-  
-  <!--Donations-->
-  ## 💸 Donations 
-  <a href = "https://www.paypal.com/donate/?business=93SAQM7M8PA64&amount=5&no_recurring=0&item_name=No+matter+how+much+you+send+me+to+continue+my+professional+development.&currency_code=USD"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a>
   
   <!--My Favorite Car Brands-->
   ## 🏎 My Favorite Car Brands!
