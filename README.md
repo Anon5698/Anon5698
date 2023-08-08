@@ -40,8 +40,8 @@
   
   <!--Maintained...-->
   ## ⚠️ Maintained!
-   <!--a href = "Maintained_On"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="_blank"></a> --> 
-   <a href = "Maintained_Off"><img src="https://img.shields.io/badge/Maintained%3F-no-red.svg" target="_blank"></a>
+   <a href = "Maintained_On"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="_blank"></a>
+   <!--a href = "Maintained_Off"><img src="https://img.shields.io/badge/Maintained%3F-no-red.svg" target="_blank"></a> -->
   
   
   <!--Social Medias-->
