@@ -42,7 +42,7 @@
   ## ⚠️ Maintained!
    <a href = "Maintained_On"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="_blank"></a>
    <!--a href = "Maintained_Off"><img src="https://img.shields.io/badge/Maintained%3F-no-red.svg" target="_blank"></a> -->
-  
+
   
   <!--Social Medias-->
   ## 🚀 Social Media!
@@ -74,7 +74,8 @@
   <a href = "Mercedes_Benz"><img src="https://aleen42.github.io/badges/src/mercedes_benz.svg" target="_blank"></a>
   <a href = "Audi"><img src="https://aleen42.github.io/badges/src/audi.svg" target="_blank"></a>
  
-  ## 🐍 Snake!
+  ## 🐍 Snake! 
+[![Generate Datas](https://github.com/Anon5698/Anon5698/actions/workflows/snake.yml/badge.svg?branch=main&event=status)](https://github.com/Anon5698/Anon5698/actions/workflows/snake.yml)
   ![Snake animation](https://github.com/Anon5698/Anon5698/blob/output/github-contribution-grid-snake.svg)
  
 </div>
