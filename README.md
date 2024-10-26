@@ -74,8 +74,7 @@
   <a href = "Mercedes_Benz"><img src="https://aleen42.github.io/badges/src/mercedes_benz.svg" target="_blank"></a>
   <a href = "Audi"><img src="https://aleen42.github.io/badges/src/audi.svg" target="_blank"></a>
  
-<!--  ## 🐍 Snake! 
-[![Generate Datas](https://github.com/Anon5698/Anon5698/actions/workflows/snake.yml/badge.svg?branch=main&event=status)](https://github.com/Anon5698/Anon5698/actions/workflows/snake.yml)
-  ![Snake animation](https://github.com/Anon5698/Anon5698/blob/output/github-contribution-grid-snake.svg)
---> 
+<!--  ## 🐍 Snake! -->
+## 🐍 Snake!  
+![Snake animation](https://github.com/Anon5698/Anon5698/blob/output/github-contribution-grid-snake.svg)
 </div>
